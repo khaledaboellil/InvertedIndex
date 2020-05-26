@@ -8,7 +8,7 @@ public class Document {
         DocID = docID;
         DocContent=docContent;
     }
-
+//sssss
     public String getDocID() {
         return DocID;
     }
